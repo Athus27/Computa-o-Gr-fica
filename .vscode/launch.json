@@ -2,13 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Run OpenGL (FreeGLUT)",
+      "name": "Rodar Projeto OpenGL",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}\\build\\app.exe",
+      "program": "${workspaceFolder}/build/app.exe",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "${workspaceFolder}\\build",
+      "cwd": "${workspaceFolder}/build",
       "environment": [],
       "externalConsole": true,
       "MIMode": "gdb",

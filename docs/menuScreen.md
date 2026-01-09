@@ -4,6 +4,8 @@
 ### 1. **LearnOpenGL**
 🔗 [https://learnopengl.com](https://learnopengl.com)
 
+> link do repositório: github.com/JoeyDeVries/learnopengl.
+
 Use para **conceito**, não para copiar código inteiro.
 Capítulos úteis:
 

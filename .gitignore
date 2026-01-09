@@ -1,0 +1,9 @@
+# Pastas do Obsidian e VS Code local
+docs/.obsidian/
+.vscode/
+
+# Binários e arquivos gerados (Build)
+build/
+*.exe
+*.o
+*.dll
